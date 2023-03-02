@@ -1,8 +1,8 @@
 # ChatGPT-Prompts-Custom-CN
 ## 说明
 * 从 **awesome-chatgpt-prompts-zh**，制作了**json**、**csv**，方便**lencx/ChatGPT**使用
-* 使用跨平台的ChatGPT软件
-`https://github.com/lencx/ChatGPT`
+* 使用跨平台的ChatGPT软件  
+https://github.com/lencx/ChatGPT
 
 * 可以复制以下地址，推荐选择json格式 (csv经测试有bug,对中文支持不太好）
 `raw.githubusercontent.com/fastcoderspencer/ChatGPT-Prompts-Custom-CN/main/prompts_cn`
