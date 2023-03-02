@@ -14,7 +14,7 @@
 
 `https://github.com/f/awesome-chatgpt-prompts`  
 
-#### *"文件prompts_cn.csv"* 内容如下
+#### *文件 "prompts_cn.csv"* 内容如下
 
 | act                                | prompt                                                       |
 | ---------------------------------- | :----------------------------------------------------------- |
