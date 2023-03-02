@@ -4,7 +4,7 @@
 * 使用跨平台的ChatGPT软件  
 https://github.com/lencx/ChatGPT
 
-* 可以复制以下地址，推荐选择json格式 (csv经测试有bug,对中文支持不太好）
+* 可以复制以下地址，推荐选择**json格式**    (csv经测试有bug,中文/{cmd} 读取有问题 ）
 `raw.githubusercontent.com/fastcoderspencer/ChatGPT-Prompts-Custom-CN/main/prompts_cn`
 
 ####  内容源自于
