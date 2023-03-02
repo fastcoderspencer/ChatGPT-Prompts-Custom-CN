@@ -10,10 +10,11 @@
 ####  内容源自于
 `https://github.com/PlexPt/awesome-chatgpt-prompts-zh`
 
-#####  英文可参考
+####  英文可参考
 
-`https://github.com/f/awesome-chatgpt-prompts`
+`https://github.com/f/awesome-chatgpt-prompts`  
 
+#### *"文件prompts_cn.csv"* 内容如下
 
 | act                                | prompt                                                       |
 | ---------------------------------- | :----------------------------------------------------------- |
