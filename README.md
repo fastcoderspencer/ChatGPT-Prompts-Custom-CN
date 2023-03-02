@@ -8,11 +8,12 @@
 `raw.githubusercontent.com/fastcoderspencer/ChatGPT-Prompts-Custom-CN/main/prompts_cn`
 
 ####  内容源自于
-`https://github.com/PlexPt/awesome-chatgpt-prompts-zh`
+https://github.com/PlexPt/awesome-chatgpt-prompts-zh
 
 ####  英文可参考
 
-`https://github.com/f/awesome-chatgpt-prompts`  
+https://github.com/f/awesome-chatgpt-prompts  
+
 
 #### *文件 "prompts_cn.csv"* 内容如下
 
