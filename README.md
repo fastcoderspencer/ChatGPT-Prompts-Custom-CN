@@ -6,7 +6,8 @@ ChatGPT Prompts Custom CN
 https://github.com/lencx/ChatGPT
 
 ##### 具体可以参考：
-https://github.com/f/awesome-chatgpt-prompts
+https://github.com/f/awesome-chatgpt-prompts  
+
 https://github.com/PlexPt/awesome-chatgpt-prompts-zh
 
 
